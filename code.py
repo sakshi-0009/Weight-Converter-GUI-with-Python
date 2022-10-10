@@ -1,4 +1,4 @@
-Python Program Code :
+# Python Program Code :-
 
 from tkinter import *
 # Creating a GUI Window
